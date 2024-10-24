@@ -1,0 +1,1 @@
+Aquí se explica el proyecto inicial
